@@ -7,7 +7,7 @@ Task 4: Displaying the last 10 lines of a file /etc/passwd
 Task 5: Displaying the first 10 lines of a file /etc/passwd
 Task 6: A script to display the third line of a file iacta
 Task 7: A script that creates a file named Best school ending by a new line
-Task 8: A script that writes into the file ls_cwd_content
+Task 8: A script that writes into the file lscwdcontent
 Task 9: A script that duplicates the last line of the a file named iacta
 Task 10: A script that deletes all the regular files with a .js extension that are present in the  current directory and its subdirectories
 Task 11: A script that counts the number of directories and subdirectories
